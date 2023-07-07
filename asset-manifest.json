@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PulicatSeaFoods/static/css/main.69b85c8d.css",
+    "main.js": "/PulicatSeaFoods/static/js/main.8561b8a8.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/PulicatSeaFoods/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/PulicatSeaFoods/index.html",
+    "main.69b85c8d.css.map": "/PulicatSeaFoods/static/css/main.69b85c8d.css.map",
+    "main.8561b8a8.js.map": "/PulicatSeaFoods/static/js/main.8561b8a8.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/PulicatSeaFoods/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69b85c8d.css",
+    "static/js/main.8561b8a8.js"
+  ]
+}
